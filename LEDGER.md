@@ -65,3 +65,11 @@ date: "25 NOVEMBER 2026 • THE DAY IN ONE IMAGE". All text typeset locally
   execution-risk check; no git/package commands were run and no flagged files
   were copied anywhere.
 - **Not committed, pushed, bundled, or submitted** — parent handles that.
+
+## Submission
+
+- Submission: 01a21605-f691-704f-9478-22a4ab476809
+- Commit: 967674a3bf826fabac95d26bde07041f3eb92c8a
+- Repo: https://github.com/lukmannurh/news-image-20261125
+- Claim code: AF-7FX7S-CJB19-EHCY3-E9CVY
+- Submitted: 2026-11-26T04:04:02.113Z (parent pipeline)
